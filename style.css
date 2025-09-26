@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.roxo{
+    width: 100vw;
+    height: 200px;
+    background-color: plum;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.roxo div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(111, 22, 166);
+    border-radius: 50%;
+}
