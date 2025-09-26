@@ -5,17 +5,36 @@
 }
 
 .roxo{
+    
     width: 100vw;
     height: 200px;
-    background-color: plum;
+    background-color: rgb(250, 8, 250);
     display: flex;
     justify-content: right;
     align-items: center;
 }
 
 .roxo div{
+
     width: 100px;
     height: 100px;
-    background-color: rgb(111, 22, 166);
+    background-color: rgb(157, 12, 247);
+    border-radius: 50%;
+}
+.verde{
+
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(9, 234, 84);
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.verde div{
+
+    width: 100px;
+    height: 100px;
+    background-color: rgb(4, 92, 58);   
     border-radius: 50%;
 }
