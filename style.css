@@ -62,7 +62,7 @@
     background-color: rgb(224, 224, 93);
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
     gap: 9px;
 
 }
@@ -71,5 +71,23 @@
     width: 100px;
     height: 100px;
     background-color: rgb(149, 166, 22);
+    border-radius: 50%;
+}
+
+.azul{
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(93, 115, 224);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 250px;
+
+}
+
+.azul div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(53, 22, 166);
     border-radius: 50%;
 }
