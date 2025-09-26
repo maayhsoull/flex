@@ -1,11 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-.roxo{
-    
+.roxo {
     width: 100vw;
     height: 200px;
     background-color: rgb(250, 8, 250);
@@ -14,15 +13,14 @@
     align-items: center;
 }
 
-.roxo div{
-
+.roxo div {
     width: 100px;
     height: 100px;
     background-color: rgb(157, 12, 247);
     border-radius: 50%;
 }
-.verde{
 
+.verde {
     width: 100vw;
     height: 200px;
     background-color: rgb(9, 234, 84);
@@ -31,10 +29,26 @@
     align-items: center;
 }
 
-.verde div{
-
+.verde div {
     width: 100px;
     height: 100px;
-    background-color: rgb(4, 92, 58);   
+    background-color: rgb(4, 92, 58);
+    border-radius: 50%;
+}
+
+.laranja {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(130, 44, 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.laranja div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(253, 134, 7);
     border-radius: 50%;
 }
